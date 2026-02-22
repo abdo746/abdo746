@@ -12,5 +12,5 @@
 Coming soon...
 
 ### 📫 Contact
-- LinkedIn:
-- Email:
+- LinkedIn: https://www.linkedin.com/in/abdelrahman-adel-b45409191/
+- Email: aldesoky.abdo746@gmail.com
