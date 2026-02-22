@@ -1,19 +1,16 @@
-# Hi, I'm Abdo 👋
+# Hi 👋 I'm Abdo
 
-Full Stack Developer (Angular + .NET)
+## 🚀 Full Stack Developer (Angular + .NET in progress)
 
-## 🚀 Tech Stack
+### 📌 Currently Learning
+- C#
+- ASP.NET Core
 - Angular
-- .NET Core
 - SQL Server
-- REST APIs
-- Docker
-- Git
 
-## 🧠 Currently Working On
-- Real-world enterprise dashboard
-- Clean architecture API project
+### 📂 Projects
+Coming soon...
 
-## 📫 Contact
-- LinkedIn: ...
-- Email: ...
+### 📫 Contact
+- LinkedIn:
+- Email:
